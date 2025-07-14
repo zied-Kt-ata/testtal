@@ -128,6 +128,8 @@
   }, {
     "id" : "org.talend.studio.components.tck.samba.feature.feature.group"
   }, {
+    "id" : "org.talend.studio.components.tck.sap.odata.feature.feature.group"
+  }, {
     "id" : "org.talend.studio.components.tck.solr.feature.feature.group"
   }, {
     "id" : "org.talend.studio.components.tck.splunk.feature.feature.group"
